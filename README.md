@@ -26,3 +26,16 @@ The **Image Description Generator** takes an image as input and returns a short,
 The project serves as a foundation for further exploration in automated image captioning and can be expanded to incorporate additional features such as real-time analysis and interactive web interfaces. Contributions and improvements are welcome, inviting collaboration to enhance image understanding through advanced technology.
 
 Overall, this project demonstrates the potential of leveraging state-of-the-art AI models to bridge the gap between visual content and human language, paving the way for innovative applications in various fields such as accessibility, education, and content creation.
+
+
+## Contributing
+
+Feel free to collaborate on this project! I’d love to see your contributions. Whether it’s a bug fix, a feature request, or improvements to the documentation, your input is welcome!
+
+### How to Collaborate
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
