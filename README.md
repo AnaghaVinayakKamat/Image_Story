@@ -1,4 +1,4 @@
-# 🖼️ AI-Powered Image Description System Using BLIP 🤖
+# 🖼️ AI-Powered Image Description Generator Using BLIP 🤖
 
 This Python project utilizes **BLIP (Bootstrapped Language Image Pretraining)**, a cutting-edge Vision-Language Transformer model, to generate detailed and contextually rich descriptions for input images. Leveraging AI and deep learning, the project is capable of understanding and interpreting images, providing meaningful captions that reflect their content.
 
